@@ -2,7 +2,7 @@
 
 ## Setup Environment - Terminal VS Code (CMD)
 ```
-cd Proyek_Analisis_Data_Fitria_Rahmadani
+cd Proyek_Analisis_Data_Rizky Putra Reinanda
 python -m venv venv
 venv\Scripts\activate 
 pip install -r requirements.txt
