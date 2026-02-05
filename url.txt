@@ -1,1 +1,2 @@
-https://fitriara-air-quality-dashboard.streamlit.app/
+link streamlit yang sudah di hosting:
+rizkyputrareinanda-air-quality-dashboard.streamlit.app
